@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="w-4/5 px-2 mx-auto">
     <p class="text-2xl font-medium text-red-400">This is children page</p>
     <div class="text-center">
       <menu-icon />
